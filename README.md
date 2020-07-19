@@ -2,6 +2,8 @@
 
 Scrape 4000+ Bangla Song Lyrics with Title and Genre from [BanglaSongLyrics.com](https://banglasonglyrics.com/)
 
+> I already uploaded lyrics dataset in [Kaggle/shakirulhasan/bangla-song-lyrics](https://www.kaggle.com/shakirulhasan/bangla-song-lyrics). You don't have to scrape it.
+
 ### Documentation
 
 Run `python scrape.py filename.csv` to scrape all 4000+ lyrics. For help run `python scrape.py --help` or `python scrape.py -h`.
